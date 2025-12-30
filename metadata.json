@@ -1,0 +1,6 @@
+
+{
+  "name": "Life Bingo",
+  "description": "A gamified goal-setting application inspired by the 'Life Bingo' concept. Create a 5x5 grid of your dreams, categorize them by difficulty, and stamp them as you achieve them.",
+  "requestFramePermissions": []
+}
